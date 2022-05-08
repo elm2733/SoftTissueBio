@@ -1,7 +1,7 @@
 # SoftTissueBio
 
 Correspondence: Ethan Maddin
-e: maddinethan1@gmail.com p: +1 512-745-1991
+# e: maddinethan1@gmail.com p: +1 512-745-1991
 
 This repository includes everything I have built for my graduate research project. Each of the files uploaded is described in this README file.
 
