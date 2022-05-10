@@ -10,5 +10,4 @@ Bridge: I designed a bridge to mount to a Z-Stage in SolidWorks. The rectangular
         deformation mode.
         
 ExperimentNew: This is the SolidWorks Assembly of the Torsion Tester that I built. It consists of a Zaber X-RSW series rotation stage, two Futek load sensors, a ThorLabs Z-Stage, and the bridge I prototyped. 
-       
-TorsionTester VI: 
+
